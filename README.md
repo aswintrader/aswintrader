@@ -37,21 +37,10 @@
 ## 📌 Featured Projects
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aswintrader&repo=credit-card-fraud-detection&theme=tokyonight)](https://github.com/aswintrader/credit-card-fraud-detection)  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aswintrader&repo=long-term-growth-stock-screener&theme=tokyonight)](https://github.com/aswintrader/ML-project)  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aswintrader&repo=loan-performance-analysis&theme=tokyonight)](https://github.com/aswintrader/loan-performance-analysis)  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aswintrader&repo=ML-project&theme=tokyonight)](https://github.com/aswintrader/ML-project)  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aswintrader&repo=Healthcare-Analytics-&theme=tokyonight)](https://github.com/aswintrader/Healthcare-Analytics-)  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aswintrader&repo=drone-survivor-detection&theme=tokyonight)](https://github.com/aswintrader/drone-survivor-detection)  
 
----
-
-<details>
-<summary>📂 More Projects</summary>
-
-- [Data Science & ML Mini Projects](https://github.com/aswintrader/data-science-mini-projects) – A collection of small-scale data science experiments.  
-- [Exploratory Data Analysis Templates](https://github.com/aswintrader/eda-templates) – Ready-to-use EDA Python scripts for quick analysis.  
-- [Time Series Forecasting](https://github.com/aswintrader/time-series-forecasting) – Predicting trends using ARIMA, Prophet, and LSTMs.  
-- [Custom Stock Analysis Tools](https://github.com/aswintrader/custom-stock-tools) – Scripts and notebooks for personalized stock research.  
-
-</details>
 
 ---
 
