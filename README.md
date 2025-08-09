@@ -37,7 +37,7 @@
 ## 📌 Featured Projects
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aswintrader&repo=credit-card-fraud-detection&theme=tokyonight)](https://github.com/aswintrader/credit-card-fraud-detection)  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aswintrader&repo=long-term-growth-stock-screener&theme=tokyonight)](https://github.com/aswintrader/long-term-growth-stock-screener)  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aswintrader&repo=long-term-growth-stock-screener&theme=tokyonight)](https://github.com/aswintrader/ML-project)  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aswintrader&repo=loan-performance-analysis&theme=tokyonight)](https://github.com/aswintrader/loan-performance-analysis)  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aswintrader&repo=drone-survivor-detection&theme=tokyonight)](https://github.com/aswintrader/drone-survivor-detection)  
 
